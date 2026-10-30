@@ -10,7 +10,9 @@
 ![LLM](https://img.shields.io/badge/LLM-Groq%20API-F55036?style=flat)
 ![Compliance](https://img.shields.io/badge/Compliance-MiFID%20II%20%7C%20SEC%20%7C%20FINRA-green?style=flat)
 
+
 ---
+
 
 ## Overview
 
